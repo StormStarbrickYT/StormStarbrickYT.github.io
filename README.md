@@ -1,2 +1,3 @@
 # StormStarbrickYT.github.io
-Website for VoidStorm Gaming
+
+Official Website for the VoidStorm Gaming Esports Team
