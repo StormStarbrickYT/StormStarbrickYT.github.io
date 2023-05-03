@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: cyan;
+    color: red;
     margin: auto;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -8,7 +8,7 @@ body{
 
 .mission{
     margin: 100px;
-    color: cyan;
+    color: red;
 }
 
 hr{
@@ -42,14 +42,14 @@ hr{
 
 .button {
     background-color: black;
-    color: cyan;
+    color: red;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
     border-radius: 8px;
-    border: 5px solid cyan;
+    border: 5px solid red;
     transition-duration: 0.4s;
 }
 
@@ -68,7 +68,7 @@ hr{
     display: inline-block;
     font-size: 16px;
     border-radius: 8px;
-    border: 5px solid cyan;
+    border: 5px solid red;
     transition-duration: 0.4s;
 }
 
@@ -97,13 +97,13 @@ hr{
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-    background-color: cyan;
+    background-color: red;
     color: black;
 }
 
 .topnav a.visited {
     color: black;
-    -webkit-text-stroke: 1px cyan;
+    -webkit-text-stroke: 1px red;
 }
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
@@ -114,7 +114,7 @@ hr{
 .topnav input[type=text] {
     float: right;
     padding: 6px;
-    border: 1px cyan solid;
+    border: 1px red solid;
     margin-top: 8px;
     margin-right: 16px;
     font-size: 17px;
@@ -184,13 +184,13 @@ hr{
 }
 
 .search-bar{
-    border: 2px cyan solid;
-    color: cyan;
+    border: 2px red solid;
+    color: red;
     background-color: #333;
 }
 
 .nav-links{
-    color: cyan;
+    color: red;
 }
 
 .rednexuslogo{

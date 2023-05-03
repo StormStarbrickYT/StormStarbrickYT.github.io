@@ -5,7 +5,7 @@
   
   .topnav a {
     float: left;
-    color: cyan;
+    color: red;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -18,7 +18,7 @@
   }
   
   .topnav a.active {
-    background-color: cyan;
+    background-color: red;
     color: black;
     -webkit-text-stroke: 1px black;
   }
