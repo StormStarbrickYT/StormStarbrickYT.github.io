@@ -257,3 +257,13 @@ img.hover{
     float: left;
     margin-left: 50px;
 }
+
+@font-face {
+    font-family: 'OCRAExtendedRegular';
+    src: url('ocraextended.eot?#iefix');
+    src: url('ocraextended.eot?#iefix') format('embedded-opentype'),
+         url('ocraextended.woff') format('woff'),
+         url('ocraextended.ttf') format('truetype'),
+         url('ocraextended.svg#OCRAExtendedRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;}
